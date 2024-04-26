@@ -1,1 +1,2 @@
-Good Afternoon //this is my first commit 
+Good Afternoon //this is my first commit
+My name is Niranjan //this is my second commit 
